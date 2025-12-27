@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="left">💫 About Me: </h1>
-<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/studiokshitij/PyKshitij/blob/main/Robo.webp"/>
+<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/studiokshitij/PyKshitij/main/Robo.webp"/>
 <br/>
 - 🔭 I’m currently working on Telegram Bots.<br>
 - 👯 All my public projects are easily accessible here.<br>
@@ -61,7 +61,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=viscity&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=studiokshitij&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studiokshitij&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
