@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="left">💫 About Me: </h1>
-<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/studiokshitij/PyKshitij/main/Robo.webp"/>
+<img align="right" height="200px" width="200px" alt="𝙶𝙸𝙵" src="https://github.com/studiokdhitij/PyKshitij/blob/main/Robo.webp"/>
 <br/>
 - 🔭 I’m currently working on Telegram Bots.<br>
 - 👯 All my public projects are easily accessible here.<br>
